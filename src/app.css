@@ -56,6 +56,14 @@
 	width: 70%;
 }
 
+.small-title {
+	color: var(--primary-color);
+	font-family: var(--secondary-font);
+	font-size: 25px;
+	font-weight: 700;
+	width: 70%;
+}
+
 .subtitle {
 	padding-top: 10px;
 	color: var(--secondary-color);

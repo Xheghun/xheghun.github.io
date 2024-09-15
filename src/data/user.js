@@ -33,16 +33,7 @@ const INFO = {
 			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
 	},
 
-	projects: [
-		{
-			title: "Project 1",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
+	personalProjects: [
 		{
 			title: "Simple Parking",
 			description:
@@ -95,6 +86,25 @@ const INFO = {
 			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
 			linkText: "View Project",
 			link: "https://github.com/Xheghun/StockX",
+		},
+	],
+	projects: [
+		{
+			title: "Kindred Android SDK",
+			description:
+				"A white-labeled Android SDK designed to enhance the user shopping experience by providing access to global deals and coupons. Seamlessly integrated into existing apps, it helps users save money while enabling businesses to earn incremental revenue through tailored offers and promotions.",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
+			linkText: "View Project",
+			link: "https://docs.kindredsdk.com/docs/sdk-for-android-mobile-browser",
+		},
+
+		{
+			title: "Contextual Android SDK",
+			description:
+				"This fully customizable SDK allows you build a no-code personalised in-app communication to users in your Android app. this sdk provides customisable elements that you can use. it also exposes low-level APIs that underpin UIs in your app so that you can build fully custom experiences to delight your users.",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
+			linkText: "View Project",
+			link: "https://docs.contextu.al/sdks/android/integration/",
 		},
 	],
 };
