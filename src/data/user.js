@@ -22,7 +22,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m David Rufai. I help build pocket-size solutions to bigger problems.",
+		title: "Helping you build pocket-size solutions to bigger problems.",
 		description:
 			"With over seven years of Mobile development experience, I have crafted a diverse range of mobile applications, from improving user engagement with localized SDKs to optimizing app performance for millions of users. I have led teams, automated pipelines, and contributed to high-impact projects, always focusing on enhancing user experience and building scalable solutions. I enjoy collaborating with other developers, regularly contributing to open-source projects, and am always open to feedback and new ideas that push the boundaries of mobile technology. My expertise spans Kotlin, Java, Swift, and Dart, with a strong emphasis on clean architecture and performance optimization. Outside of tech, I enjoy playing basketball and practicing martial arts, which contribute to my disciplined and team-oriented approach in professional settings.",
 	},
