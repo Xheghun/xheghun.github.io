@@ -38,45 +38,63 @@ const INFO = {
 			title: "Project 1",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "Simple Parking",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Built with Google maps, Places API, Firebase and flutter, this app helps identify the nearest parking spots using markers based on your location and provides navigation routes",
+			logo: "https://www.cdnlogo.com/logos/f/97/flutter.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Xheghun/simple-parking",
 		},
 
 		{
-			title: "Project 3",
+			title: "Trekr",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"A SwiftUI app that showcases random iconic locations from around the world, providing users with fascinating trivia about each destination. The app dynamically displays new locations, offering a fun and educational experience with each visit. Perfect for curious travelers or anyone interested in global landmarks and their stories.",
+			logo: "https://www.cdnlogo.com/logos/s/13/swift.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Xheghun/Trekr",
 		},
 
 		{
-			title: "Project 4",
+			title: "Movemate",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Movemate is a shipping app built with Android Jetpack Compose. This app implements custom navigation and complex animation in compose",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Xheghun/Movemate",
 		},
 
 		{
-			title: "Project 5",
+			title: "Places",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"An Android Point of Interest (POI) app that seamlessly integrates with both Android Auto and Android Automotive OS. This application offers an intuitive interface for discovering and navigating to various points of interest, whether you're using your smartphone or your vehicle's infotainment system. ",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Xheghun/Places",
+		},
+
+		{
+			title: "Contacts",
+			description:
+				"A Contact manager app built natively for Androids",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
+			linkText: "View Project",
+			link: "https://github.com/Xheghun/contact_manager",
+		},
+
+		{
+			title: "StockX",
+			description:
+				"View popular coins/tokens and their exchange rates",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
+			linkText: "View Project",
+			link: "https://github.com/Xheghun/StockX",
 		},
 	],
 };
