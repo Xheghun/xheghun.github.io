@@ -54,7 +54,7 @@ const Projects = () => {
 						</div>
 
 						<div className="projects-list">
-							<AllProjects />
+							<AllProjects showAll={true}/>
 						</div>
 					</div>
 					<div className="page-footer">

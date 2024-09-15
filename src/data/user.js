@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Mobile Application Engineer",
+		title: "Oluwasegun David Rufai",
 		description:
-			"I'm mobile. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Hi! I'm a Mobile app engineer with 7 years of experience across Android, iOS, and Flutter. I've built products for startups and businesses alike, always pushing to improve my skills. Quietly confident, naturally curious, and committed to crafting exceptional digital experiences. Ready to take on new challenges and deliver results."
 	},
 
 	about: {
@@ -30,7 +30,7 @@ const INFO = {
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Chronological collection of my long-form thoughts on android, iOS, and more.",
 	},
 
 	personalProjects: [
@@ -99,12 +99,29 @@ const INFO = {
 		},
 
 		{
+			title: "MyCover.ai Mobile SDK",
+			description:
+				"An insurance policy management SDK designed to streamline the purchase process, making it swift, simple, and user-friendly, powered by MyCover.ai APIs. It’s implemented across Android, iOS, React Native, and Flutter for seamless integration.",
+			logo: "https://www.cdnlogo.com/logos/s/13/swift.svg",
+			linkText: "View Project",
+			link: "https://docs.mycover.ai/libraries-and-sdks/flutter",
+		},
+
+		{
 			title: "Contextual Android SDK",
 			description:
 				"This fully customizable SDK allows you build a no-code personalised in-app communication to users in your Android app. this sdk provides customisable elements that you can use. it also exposes low-level APIs that underpin UIs in your app so that you can build fully custom experiences to delight your users.",
 			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
 			linkText: "View Project",
 			link: "https://docs.contextu.al/sdks/android/integration/",
+		},
+		{
+			title: "XPLeague",
+			description:
+				"XPLeague is a sports prediction app that rewards the top 10 users each week based on their leaderboard rankings.",
+			logo: "https://www.cdnlogo.com/logos/f/97/flutter.svg",
+			linkText: "View Project",
+			link: "https://play.google.com/store/apps/details?id=co.weprototype.xpleague",
 		},
 	],
 };
