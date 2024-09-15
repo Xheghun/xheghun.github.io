@@ -1,30 +1,30 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "David Rufai",
+		name: "David Rufai",
+		email: "ysenruf@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		twitter: "https://twitter.com/Xheghun",
+		github: "https://github.com/Xheghun",
+		linkedin: "https://linkedin.com/in/david-rufai",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Mobile Application Engineer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I'm mobile. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m David Rufai. I help build pocket-size solutions to bigger problems.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"With over seven years of Mobile development experience, I have crafted a diverse range of mobile applications, from improving user engagement with localized SDKs to optimizing app performance for millions of users. I have led teams, automated pipelines, and contributed to high-impact projects, always focusing on enhancing user experience and building scalable solutions. I enjoy collaborating with other developers, regularly contributing to open-source projects, and am always open to feedback and new ideas that push the boundaries of mobile technology. My expertise spans Kotlin, Java, Swift, and Dart, with a strong emphasis on clean architecture and performance optimization. Outside of tech, I enjoy playing basketball and practicing martial arts, which contribute to my disciplined and team-oriented approach in professional settings.",
 	},
 
 	articles: {
