@@ -8,7 +8,7 @@ import "./styles/works.css";
 const Works = () => {
 	return (
 		<div className="works">
-			<a style={{textDecoration: 'none'}} target="_blank" href="https://drive.google.com/file/d/1J0onxs-Jx7oPVnXWFeSKIaGUhxDNhdME/view?usp=sharing">
+			<a rel="noopener noreferrer" style={{textDecoration: 'none'}} target="_blank" href="https://drive.google.com/file/d/1J0onxs-Jx7oPVnXWFeSKIaGUhxDNhdME/view?usp=sharing">
 				<Card
 					icon={faBriefcase}
 					title="Work"
