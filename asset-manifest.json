@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xheghun.github.io/static/css/main.fa7d76ae.css",
+    "main.js": "/xheghun.github.io/static/js/main.422d7dfd.js",
+    "static/js/787.e5e0f25d.chunk.js": "/xheghun.github.io/static/js/787.e5e0f25d.chunk.js",
+    "index.html": "/xheghun.github.io/index.html",
+    "main.fa7d76ae.css.map": "/xheghun.github.io/static/css/main.fa7d76ae.css.map",
+    "main.422d7dfd.js.map": "/xheghun.github.io/static/js/main.422d7dfd.js.map",
+    "787.e5e0f25d.chunk.js.map": "/xheghun.github.io/static/js/787.e5e0f25d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7d76ae.css",
+    "static/js/main.422d7dfd.js"
+  ]
+}
