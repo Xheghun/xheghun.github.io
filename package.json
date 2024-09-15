@@ -1,11 +1,12 @@
 {
-	"name": "reactfolio",
+	"name": "david-rufai-portfolio",
 	"version": "1.1.0",
-	"description": "Personal portfolio template built using Reactjs",
+	"description": "My Developer Portfolio",
+	"homepage": "https://xheghun.github.io/xheghun.github.io",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "David Rufai",
+		"email": "ysenruf@gmail.com",
+		"url": "https://github.com/Xheghun"
 	},
 	"license": "MIT",
 	"private": true,
