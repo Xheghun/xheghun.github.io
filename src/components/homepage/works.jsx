@@ -3,8 +3,6 @@ import { faBriefcase } from "@fortawesome/free-solid-svg-icons";
 
 import Card from "../common/card";
 
-import { Link } from "react-router-dom";
-
 import "./styles/works.css";
 
 const Works = () => {
