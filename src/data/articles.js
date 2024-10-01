@@ -6,7 +6,7 @@ function article_2() {
 		date: "18 August 2024",
 		title: "Understanding Dependency Injection",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"Imagine you're working on an app that requires various components to interact seamlessly. You’ve written a class to handle user authentication, but it directly...",
 		keywords: [
 			"Dependency Injection",
 			"David Rufai",
@@ -47,7 +47,7 @@ function article_1() {
 		date: "10 September 2024",
 		title: "Dependency Injection in Jetpack Compose with Koin: A \"Koincidence\"? ",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"Have you ever felt like your code is drowning in dependencies, tangled like some Italian spaghetti? Fear not! Dependency Injection (DI) is here to save the day.",
 		style: ``,
 		keywords: [
 		"Dependency Injection",
