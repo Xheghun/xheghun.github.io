@@ -110,7 +110,7 @@ const INFO = {
 		{
 			title: "Contextual Android SDK",
 			description:
-				"This fully customizable SDK allows you build a no-code personalised in-app communication to users in your Android app. this sdk provides customisable elements that you can use. it also exposes low-level APIs that underpin UIs in your app so that you can build fully custom experiences to delight your users.",
+				"This fully customizable SDK allows you build a no-code personalized in-app communication to users in your Android app. this sdk provides customisable elements that you can use. it also exposes low-level APIs that underpin UIs in your app so that you can build fully custom experiences to delight your users.",
 			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
 			linkText: "View Project",
 			link: "https://docs.contextu.al/sdks/android/integration/",
