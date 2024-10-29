@@ -26,7 +26,10 @@
 		"react-router-dom": "^6.11.1",
 		"react-scripts": "5.0.1",
 		"styled-components": "^5.3.10",
-		"web-vitals": "^2.1.4"
+		"web-vitals": "^2.1.4",
+		"@emailjs/browser": "^4.2.0",
+		"sonner": "^1.4.3",
+		"react-hook-form": "^7.51.0"
 	},
 	"scripts": {
 		"start": "react-scripts start",

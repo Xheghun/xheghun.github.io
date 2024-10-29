@@ -1,5 +1,9 @@
+"use client";
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
+import { Toaster, toast } from "sonner";
+import emailJs from "@emailjs/browser";
+import { useForm } from "react-hook-form";
 
 import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
@@ -11,7 +15,7 @@ import SEO from "../data/seo";
 
 import "./styles/contact.css";
 
-const Form = () => {
+const ContactForm = () => {
 	const {
 		register,
 		handleSubmit,
@@ -68,13 +72,9 @@ const Form = () => {
 	return (
 		<>
 			<Toaster richColors={true} />
-			<form
-				className="max-w-md w-full flex flex-col items-center justify-center space-y-4"
-				onSubmit={handleSubmit(onSubmit)}
-			>
+			<form className="form-container" onSubmit={handleSubmit(onSubmit)}>
 				<input
-					variants={item}
-					className="w-full p-2 rounded-md shadow-lg text-foreground focus:outline-none focus:ring-2 focus:ring-accent/50 custom-bg"
+					className="form-item"
 					type="text"
 					placeholder="Name"
 					{...register("name", {
@@ -92,8 +92,7 @@ const Form = () => {
 				)}
 
 				<input
-					variants={item}
-					className="w-full p-2 rounded-md shadow-lg text-foreground focus:outline-none focus:ring-2 focus:ring-accent/50 custom-bg"
+					className="form-item"
 					type="email"
 					placeholder="Email"
 					{...register("email", {
@@ -111,16 +110,14 @@ const Form = () => {
 				)}
 
 				<input
-					variants={item}
-					className="w-full p-2 rounded-md shadow-lg text-foreground focus:outline-none focus:ring-2 focus:ring-accent/50 custom-bg"
+					className="form-item"
 					type="tel"
 					placeholder="Mobile number"
 					{...register("mobile_number", {})}
 				/>
 				<input
-					variants={item}
 					placeholder="Message"
-					className="w-full p-2 rounded-md shadow-lg text-foreground focus:outline-none focus:ring-2 focus:ring-accent/50 custom-bg"
+					className="form-item"
 					{...register("message", {
 						required: "Please add your message to this field",
 						maxLength: {
@@ -141,12 +138,16 @@ const Form = () => {
 					</span>
 				)}
 
-				<input
-					variants={item}
-					value="Cast your message"
-					className="px-10 py-4 rounded-md shadow-lg bg-background border border-accent/30 border-solid hover:shadow-glass-sm backdrop-blur-sm text-foreground focus:outline-none focus:ring-2 focus:ring-accent/50 custom-bg cursor-pointer capitalize"
-					type="submit"
-				/>
+				<div
+					style={{
+						width: "100%",
+						display: 'flex',
+						alignItems: 'center',
+						justifyContent: 'center'
+					}}
+				>
+					<input value="Submit" className="button" type="submit" />
+				</div>
 			</form>
 		</>
 	);
@@ -208,11 +209,7 @@ const Contact = () => {
 						</div>
 					</div>
 
-					{
-						/* Contact Form */
-
-						<div></div>
-					}
+						<ContactForm />
 
 					<div className="socials-container">
 						<div className="contact-socials">

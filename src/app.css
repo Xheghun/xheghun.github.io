@@ -22,6 +22,27 @@
 	position: relative;
 }
 
+.form-item {
+	background-color: aqua;
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.button {
+	background-color: #000000;
+	color: #f1f1f1;
+	width: 50%;
+	padding: 10px;
+	margin: 10px;
+}
+
+.form-container {
+	width: 90%;
+	align-items: center;
+	align-content: center;
+}
+
 .page-content:before,
 .page-content:after {
 	content: "";
