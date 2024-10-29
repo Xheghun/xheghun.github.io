@@ -86,7 +86,7 @@ const ContactForm = () => {
 					})}
 				/>
 				{errors.name && (
-					<span className="inline-block self-start text-accent">
+					<span className="validator-item">
 						{errors.name.message}
 					</span>
 				)}
@@ -104,7 +104,7 @@ const ContactForm = () => {
 					})}
 				/>
 				{errors.email && (
-					<span className="inline-block self-start text-accent">
+					<span className="validator-item">
 						{errors.email.message}
 					</span>
 				)}
@@ -133,7 +133,7 @@ const ContactForm = () => {
 					})}
 				/>
 				{errors.message && (
-					<span className="inline-block self-start text-accent">
+					<span className="validator-item">
 						{errors.message.message}
 					</span>
 				)}
