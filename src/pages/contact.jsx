@@ -188,21 +188,11 @@ const Contact = () => {
 						<div className="subtitle contact-subtitle">
 							I'm happy to hear from you! Whether you have a
 							question, comment, or just want to chat, I'm here
-							for it. Feel free to shoot me an email at &nbsp;{" "}
-							<a href={`mailto:${INFO.main.email}`}>
-								{INFO.main.email}
-							</a>
-							. - I try to respond within a day, though it might
+							for it. Feel free to shoot me an email.
+							 - I'll try to respond within a day, though it might
 							take a bit longer sometimes. You can also use the
-							contact form on my website, or if social media is
-							your thing, find me on LinkedIn{" "}
-							<a
-								href={INFO.socials.linkedin}
-								target="_blank"
-								rel="noreferrer"
-							>
-								{INFO.socials.linkedin}
-							</a>
+							contact form below, or if social media is
+							your thing, can contact me using the social icons
 							. I'm always posting and interacting there. Thanks
 							again for your interest, and I look forward to
 							connecting!
