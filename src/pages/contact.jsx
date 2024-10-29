@@ -28,11 +28,11 @@ const ContactForm = () => {
 
 		emailJs
 			.send(
-				process.env.NEXT_PUBLIC_SERVICE_ID,
-				process.env.NEXT_PUBLIC_TEMPLATE_ID,
+				process.env.REACT_APP_PUBLIC_SERVICE_ID,
+				process.env.REACT_APP_PUBLIC_TEMPLATE_ID,
 				params,
 				{
-					publicKey: process.env.NEXT_PUBLIC_PUBLIC_KEY,
+					publicKey: process.env.REACT_APP_PUBLIC_PUBLIC_KEY,
 					limitRate: {
 						throttle: 5000, //(5000 / 5) * 30 * 60, //limit to one email every 30 minutes
 					},
@@ -49,7 +49,7 @@ const ContactForm = () => {
 				},
 				(error) => {
 					toast.error(
-						`Ops! your message didn't go through ${name}. it not you, it's me`,
+						`Ops! your message didn't go through ${name}. it's not you, it's me`,
 						{ id: toastId }
 					);
 				}
