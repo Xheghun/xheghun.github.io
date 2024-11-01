@@ -12,7 +12,7 @@ const Works = () => {
 				rel="noopener noreferrer"
 				style={{ textDecoration: "none" }}
 				target="_blank"
-				href="https://drive.google.com/file/d/1J0onxs-Jx7oPVnXWFeSKIaGUhxDNhdME/view?usp=sharing"
+				href="https://docs.google.com/document/d/12CoHgIJRYa8S_YGfQAA60svrVMLgaUIXLDHpRwSesPw/edit?usp=drivesdk&export?format=pdf"
 			>
 				<Card
 					icon={faBriefcase}
@@ -51,7 +51,7 @@ const Works = () => {
 
 							<div className="work">
 								<img
-									src="https://pbs.twimg.com/profile_images/1509793389897732120/UZ4eUJev_400x400.jpg"
+									src="https://pbs.twimg.com/profile_images/1488772879848439809/exCJL6oN_400x400.jpg"
 									alt="contextual"
 									className="work-image"
 								/>
