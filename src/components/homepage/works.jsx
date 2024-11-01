@@ -8,7 +8,12 @@ import "./styles/works.css";
 const Works = () => {
 	return (
 		<div className="works">
-			<a rel="noopener noreferrer" style={{textDecoration: 'none'}} target="_blank" href="https://drive.google.com/file/d/1J0onxs-Jx7oPVnXWFeSKIaGUhxDNhdME/view?usp=sharing">
+			<a
+				rel="noopener noreferrer"
+				style={{ textDecoration: "none" }}
+				target="_blank"
+				href="https://drive.google.com/file/d/1J0onxs-Jx7oPVnXWFeSKIaGUhxDNhdME/view?usp=sharing"
+			>
 				<Card
 					icon={faBriefcase}
 					title="Work"
@@ -17,7 +22,7 @@ const Works = () => {
 							<div className="work">
 								<img
 									src="https://pbs.twimg.com/profile_images/1526236579433422848/FdLGiItD_400x400.jpg"
-									alt="facebook"
+									alt="kindred"
 									className="work-image"
 								/>
 								<div className="work-title">Kindred</div>
@@ -32,7 +37,7 @@ const Works = () => {
 							<div className="work">
 								<img
 									src="https://pbs.twimg.com/profile_images/1509793389897732120/UZ4eUJev_400x400.jpg"
-									alt="twitter"
+									alt="mycover.ai"
 									className="work-image"
 								/>
 								<div className="work-title">MyCover.ai</div>
@@ -41,6 +46,21 @@ const Works = () => {
 								</div>
 								<div className="work-duration">
 									Sept 2022 - May 2023
+								</div>
+							</div>
+
+							<div className="work">
+								<img
+									src="https://pbs.twimg.com/profile_images/1509793389897732120/UZ4eUJev_400x400.jpg"
+									alt="contextual"
+									className="work-image"
+								/>
+								<div className="work-title">Contextual</div>
+								<div className="work-subtitle">
+									Android Engineer
+								</div>
+								<div className="work-duration">
+									Jun 2021 - April 2023
 								</div>
 							</div>
 						</div>
