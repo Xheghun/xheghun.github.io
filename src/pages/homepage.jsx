@@ -94,6 +94,10 @@ const Homepage = () => {
 								</div>
 
 								<div className="subtitle homepage-subtitle">
+									{INFO.homepage.subtitle}
+								</div>
+
+								<div className="description homepage-description">
 									{INFO.homepage.description}
 								</div>
 							</div>

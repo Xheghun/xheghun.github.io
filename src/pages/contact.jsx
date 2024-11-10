@@ -185,7 +185,7 @@ const Contact = () => {
 							Reach out to me
 						</div>
 
-						<div className="subtitle contact-subtitle">
+						<div className="description contact-subtitle">
 							I'm happy to hear from you! Whether you have a
 							question, comment, or just want to chat, I'm here
 							for it. Feel free to shoot me an email.

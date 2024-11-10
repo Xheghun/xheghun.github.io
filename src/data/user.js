@@ -16,7 +16,8 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Oluwasegun David Rufai",
+		title: "Mobile Software Engineer",
+		subtitle: "I Build pocket-sized solutions to bigger problems",
 		description:
 			"Hi! I'm a Mobile app engineer with 7 years of experience across Android, iOS, and Flutter. I've built products for startups and businesses alike, always pushing to improve my skills. Quietly confident, naturally curious, and committed to crafting exceptional digital experiences. Ready to take on new challenges and deliver results."
 	},

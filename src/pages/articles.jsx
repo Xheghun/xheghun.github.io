@@ -44,7 +44,7 @@ const Articles = () => {
 							{INFO.articles.title}
 						</div>
 
-						<div className="subtitle articles-subtitle">
+						<div className="description articles-subtitle">
 							{INFO.articles.description}
 						</div>
 

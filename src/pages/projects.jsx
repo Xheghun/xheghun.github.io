@@ -43,7 +43,7 @@ const Projects = () => {
 							universe.
 						</div>
 
-						<div className="subtitle projects-subtitle">
+						<div className="description projects-subtitle">
 						Throughout my career, I've worked on a variety of mobile development 
 						projects across different industries. My experience spans Android, iOS, 
 						and cross-platform development, tackling challenges in fintech, 
