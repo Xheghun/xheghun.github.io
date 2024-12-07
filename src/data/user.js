@@ -52,6 +52,23 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/Xheghun/Trekr",
 		},
+		{
+			title: "Places",
+			description:
+				"An Android Point of Interest (POI) app that seamlessly integrates with both Android Auto and Android Automotive OS. This application offers an intuitive interface for discovering and navigating to various points of interest, whether you're using your smartphone or your vehicle's infotainment system. ",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
+			linkText: "View Project",
+			link: "https://github.com/Xheghun/Places",
+		},
+
+		{
+			title: "RepoLens",
+			description:
+				"built natively for Android using Jetpack Compose. This app allows user search for repositories and users on Github, using the GitHub REST API",
+			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
+			linkText: "View Project",
+			link: "https://github.com/Xheghun/RepoLens",
+		},
 
 		{
 			title: "Movemate",
@@ -63,18 +80,9 @@ const INFO = {
 		},
 
 		{
-			title: "Places",
-			description:
-				"An Android Point of Interest (POI) app that seamlessly integrates with both Android Auto and Android Automotive OS. This application offers an intuitive interface for discovering and navigating to various points of interest, whether you're using your smartphone or your vehicle's infotainment system. ",
-			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
-			linkText: "View Project",
-			link: "https://github.com/Xheghun/Places",
-		},
-
-		{
 			title: "Contacts",
 			description:
-				"A Contact manager app built natively for Androids",
+				"A Contact manager app built natively for Android",
 			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
 			linkText: "View Project",
 			link: "https://github.com/Xheghun/contact_manager",
@@ -91,7 +99,7 @@ const INFO = {
 	],
 	projects: [
 		{
-			title: "Kindred Android SDK",
+			title: "Kindred Android",
 			description:
 				"A white-labeled Android SDK designed to enhance the user shopping experience by providing access to global deals and coupons. Seamlessly integrated into existing apps, it helps users save money while enabling businesses to earn incremental revenue through tailored offers and promotions.",
 			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",
@@ -100,7 +108,7 @@ const INFO = {
 		},
 
 		{
-			title: "MyCover.ai Mobile SDK",
+			title: "MyCover.ai Mobile",
 			description:
 				"An insurance policy management SDK designed to streamline the purchase process, making it swift, simple, and user-friendly, powered by MyCover.ai APIs. It’s implemented across Android, iOS, React Native, and Flutter for seamless integration.",
 			logo: "https://www.cdnlogo.com/logos/s/13/swift.svg",
@@ -109,7 +117,7 @@ const INFO = {
 		},
 
 		{
-			title: "Contextual Android SDK",
+			title: "Contextual Android",
 			description:
 				"This fully customizable SDK allows you build a no-code personalized in-app communication to users in your Android app. this sdk provides customizable elements that you can use. it also exposes low-level APIs that underpin UIs in your app so that you can build fully custom experiences to delight your users.",
 			logo: "https://www.cdnlogo.com/logos/a/15/android.svg",

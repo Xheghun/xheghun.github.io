@@ -12,7 +12,7 @@ const Works = () => {
 				rel="noopener noreferrer"
 				style={{ textDecoration: "none" }}
 				target="_blank"
-				href="https://docs.google.com/document/d/12CoHgIJRYa8S_YGfQAA60svrVMLgaUIXLDHpRwSesPw/edit?usp=drivesdk&export?format=pdf"
+				href="https://drive.google.com/file/d/1P2Pub23Cx6oX9vLb0aNupRC3fqpXRHu3/view?usp=sharing"
 			>
 				<Card
 					icon={faBriefcase}
@@ -30,7 +30,7 @@ const Works = () => {
 									Senior Android Engineer
 								</div>
 								<div className="work-duration">
-									Jun 2023 - Jul 2024
+									Jun 2023 - Present
 								</div>
 							</div>
 

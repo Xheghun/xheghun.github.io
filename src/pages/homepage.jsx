@@ -97,9 +97,9 @@ const Homepage = () => {
 									{INFO.homepage.subtitle}
 								</div>
 
-								<div className="description homepage-description">
+								 <div className="description homepage-description">
 									{INFO.homepage.description}
-								</div>
+								</div> 
 							</div>
 
 							<div className="homepage-first-area-right-side">

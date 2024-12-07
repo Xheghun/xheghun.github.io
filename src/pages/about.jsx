@@ -66,7 +66,8 @@ const About = () => {
 								</div>
 							</div>
 						</div>
-						<div className="about-socials-mobile">
+
+							<div className="about-socials-mobile">
 							<Socials />
 						</div>
 					</div>
