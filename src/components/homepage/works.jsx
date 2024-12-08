@@ -12,7 +12,7 @@ const Works = () => {
 				rel="noopener noreferrer"
 				style={{ textDecoration: "none" }}
 				target="_blank"
-				href="https://drive.google.com/file/d/1P2Pub23Cx6oX9vLb0aNupRC3fqpXRHu3/view?usp=sharing"
+				href="https://drive.google.com/file/d/1OzW_lvPF-lY2x8kBa4Y9WUdn3J4VpFtB/view?usp=sharing"
 			>
 				<Card
 					icon={faBriefcase}
