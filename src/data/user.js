@@ -113,7 +113,7 @@ const INFO = {
 				"An insurance policy management SDK designed to streamline the purchase process, making it swift, simple, and user-friendly, powered by MyCover.ai APIs. It’s implemented across Android, iOS, React Native, and Flutter for seamless integration.",
 			logo: "https://www.cdnlogo.com/logos/s/13/swift.svg",
 			linkText: "View Project",
-			link: "https://docs.mycover.ai/libraries-and-sdks/flutter",
+			link: "https://docs.mycover.ai/libraries-and-sdks/ios",
 		},
 
 		{

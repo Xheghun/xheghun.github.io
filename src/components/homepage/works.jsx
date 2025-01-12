@@ -57,7 +57,7 @@ const Works = () => {
 								/>
 								<div className="work-title">Contextual</div>
 								<div className="work-subtitle">
-									Android Engineer
+									Software Engineer - Mobile
 								</div>
 								<div className="work-duration">
 									Jun 2021 - April 2023
