@@ -42,7 +42,7 @@ const Works = () => {
 								/>
 								<div className="work-title">MyCover.ai</div>
 								<div className="work-subtitle">
-									Mobile Engineering Lead
+									Senior Mobile Engineer
 								</div>
 								<div className="work-duration">
 									Sept 2022 - May 2023
